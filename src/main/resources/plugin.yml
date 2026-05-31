@@ -1,0 +1,7 @@
+name: ItemLimiter
+version: 1.0
+main: me.luke.itemlimiter.ItemLimiter
+api-version: '26.1'
+permissions:
+  itemlimiter.bypass:
+    default: op

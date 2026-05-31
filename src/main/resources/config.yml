@@ -1,0 +1,9 @@
+# list what items to limit and then the amount that is the maximum
+# Example:
+# limits:
+#  ENDER_PEARL: 16
+#  TNT: 32
+#  DIAMOND: 16
+#  GOLDEN_APPLE: 2
+#
+limits:
